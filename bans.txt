@@ -1,2 +1,1 @@
 # Off Balance bans: ID|name|until (unix, 0 = permanent)|reason|when
-DDC48EFB|JAXKO|1794465316||1794465256
